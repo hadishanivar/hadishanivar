@@ -1,4 +1,4 @@
-butHi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hadishanivar
+⁸butHi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hadishanivar
 ====================================================================================================================================
 
 Web developer
@@ -31,25 +31,4 @@ src="https://img.shields.io/github/followers/Hadishanivar ?logo=github&style=for
 
 <a href="https://github.com/Hadishanivar " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadishanivar &langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hadishanivar 7 ) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hadishanivar &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hadishanivar &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadishanivar &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hadishanivar &limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Hadishanivar &icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
