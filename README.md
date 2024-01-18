@@ -6,6 +6,7 @@ Web developer
 
 * 🌍  I'm based in Tonkabon
 
+
 # 💫 About Me:
 🔭  I’m looking to collaborate on<br>🌱 I’m currently learning go<br>💬 Ask me about ts<br>
 
@@ -19,6 +20,9 @@ Web developer
 ![](https://github-readme-stats.vercel.app/api?username=hadishanivar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hadishanivar&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadishanivar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hadishanivar&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hadishanivar&icon=0&color=12)](https://visitcount.itsvg.in)
