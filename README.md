@@ -33,3 +33,6 @@ Web developer
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<img src="https://raw.githubusercontent.com/Hadishanivar/Hadishanivar/output/snake.svg" alt="Snake animation" />
+
+###
